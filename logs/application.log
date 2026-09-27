@@ -1,0 +1,373 @@
+2024-11-16T12:10:22.425+01:00 DEBUG 17336 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : sun.awt.TimedWindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on frame0
+2024-11-16T12:10:22.439+01:00 DEBUG 17336 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on frame0
+2024-11-16T12:10:22.440+01:00 DEBUG 17336 --- [AWT-EventQueue-0] j.swing.SortingFocusTraversalPolicy      : ### Getting first component in tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+2024-11-16T12:10:22.443+01:00 DEBUG 17336 --- [AWT-EventQueue-0] j.swing.SortingFocusTraversalPolicy      : ### Cycle is [tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true], javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=], javax.swing.JLayeredPane[null.layeredPane,0,0,786x563,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true], javax.swing.JPanel[null.contentPane,0,0,786x563,layout=javax.swing.JRootPane$1,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=], tenis_upm.grupo11.view.outsidepanels.HomePanel[,0,0,786x563,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=], javax.swing.JPanel[,0,0,786x40,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=], javax.swing.JButton[,0,0,50x40,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@518d857d,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=50,height=40],defaultIcon=javax.swing.ImageIcon@681e1a6e,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true], tenis_upm.grupo11.view.insidepanels.FunctionalitiesPanel[,0,40,786x523,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=], javax.swing.JButton[,173,211,200x100,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.EmptyBorder@1acf57cc,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=200,height=100],defaultIcon=javax.swing.ImageIcon@1f4c1486,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Ranking,defaultCapable=true], javax.swing.JButton[,413,211,200x100,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.EmptyBorder@73694712,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=200,height=100],defaultIcon=javax.swing.ImageIcon@6bbcfd61,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=All Tournaments,defaultCapable=true]]
+2024-11-16T12:10:22.448+01:00 DEBUG 17336 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : java.awt.event.FocusEvent[FOCUS_GAINED,permanent,opposite=null,cause=ACTIVATION] on javax.swing.JButton[,0,0,50x40,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@518d857d,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=50,height=40],defaultIcon=javax.swing.ImageIcon@681e1a6e,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+2024-11-16T12:10:22.449+01:00 DEBUG 17336 --- [AWT-EventQueue-0] sun.awt.im.InputContext                  : Current client component javax.swing.JButton[,0,0,50x40,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@518d857d,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=50,height=40],defaultIcon=javax.swing.ImageIcon@681e1a6e,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+2024-11-16T12:10:24.924+01:00 DEBUG 17336 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : sun.awt.TimedWindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0
+2024-11-16T12:10:24.927+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-11-16T12:10:24.928+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4612b856, started on Fri Nov 15 23:53:20 CET 2024
+2024-11-16T12:10:24.932+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2024-11-16T12:10:24.933+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'applicationTaskExecutor' completed its stop procedure
+2024-11-16T12:10:24.933+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147482623
+2024-11-16T12:10:24.935+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-11-16T12:10:24.935+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147481599
+2024-11-16T12:10:25.248+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerStartStop' completed its stop procedure
+2024-11-16T12:10:25.248+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase -2147483647
+2024-11-16T12:10:25.248+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-11-16T12:10:25.248+01:00 DEBUG 17336 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2024-11-16T12:15:18.569+01:00  INFO 33904 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 33904 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:15:18.572+01:00 DEBUG 33904 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:15:18.573+01:00  INFO 33904 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:15:18.574+01:00 DEBUG 33904 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:15:18.593+01:00 DEBUG 33904 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2a448449
+2024-11-16T12:15:18.615+01:00 DEBUG 33904 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:15:18.628+01:00 DEBUG 33904 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:15:18.668+01:00 DEBUG 33904 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:15:18.671+01:00 DEBUG 33904 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:15:18.673+01:00 DEBUG 33904 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:15:18.675+01:00 DEBUG 33904 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:15:18.683+01:00 DEBUG 33904 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@162be91c]
+2024-11-16T12:15:18.686+01:00  WARN 33904 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:15:18.811+01:00 DEBUG 33904 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:15:18.814+01:00 ERROR 33904 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T12:48:47.454+01:00  INFO 37640 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 37640 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:48:47.456+01:00 DEBUG 37640 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:48:47.457+01:00  INFO 37640 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:48:47.458+01:00 DEBUG 37640 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:48:47.478+01:00 DEBUG 37640 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4ff4357f
+2024-11-16T12:48:47.500+01:00 DEBUG 37640 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:48:47.516+01:00 DEBUG 37640 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:48:47.548+01:00 DEBUG 37640 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:48:47.551+01:00 DEBUG 37640 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:48:47.553+01:00 DEBUG 37640 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:48:47.555+01:00 DEBUG 37640 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:48:47.563+01:00 DEBUG 37640 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@7383eae2]
+2024-11-16T12:48:47.565+01:00  WARN 37640 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:48:47.698+01:00 DEBUG 37640 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:48:47.702+01:00 ERROR 37640 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T12:50:30.938+01:00  INFO 38356 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 38356 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:50:30.940+01:00 DEBUG 38356 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:50:30.941+01:00  INFO 38356 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:50:30.942+01:00 DEBUG 38356 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:50:30.961+01:00 DEBUG 38356 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@64b73e7a
+2024-11-16T12:50:30.983+01:00 DEBUG 38356 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:50:30.996+01:00 DEBUG 38356 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:50:31.029+01:00 DEBUG 38356 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:50:31.031+01:00 DEBUG 38356 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:50:31.035+01:00 DEBUG 38356 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:50:31.037+01:00 DEBUG 38356 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:50:31.049+01:00 DEBUG 38356 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@31e3250d]
+2024-11-16T12:50:31.051+01:00  WARN 38356 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:50:31.176+01:00 DEBUG 38356 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:50:31.180+01:00 ERROR 38356 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T12:51:05.304+01:00  INFO 40208 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 40208 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:51:05.307+01:00 DEBUG 40208 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:51:05.308+01:00  INFO 40208 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:51:05.309+01:00 DEBUG 40208 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:51:05.327+01:00 DEBUG 40208 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@12ed9db6
+2024-11-16T12:51:05.357+01:00 DEBUG 40208 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:51:05.371+01:00 DEBUG 40208 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:51:05.405+01:00 DEBUG 40208 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:51:05.409+01:00 DEBUG 40208 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:51:05.410+01:00 DEBUG 40208 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:51:05.411+01:00 DEBUG 40208 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:51:05.425+01:00 DEBUG 40208 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@5be067de]
+2024-11-16T12:51:05.428+01:00  WARN 40208 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:51:05.558+01:00 DEBUG 40208 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:51:05.561+01:00 ERROR 40208 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T12:53:44.392+01:00  INFO 43048 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 43048 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:53:44.394+01:00 DEBUG 43048 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:53:44.395+01:00  INFO 43048 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:53:44.396+01:00 DEBUG 43048 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:53:44.414+01:00 DEBUG 43048 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@64b73e7a
+2024-11-16T12:53:44.432+01:00 DEBUG 43048 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:53:44.445+01:00 DEBUG 43048 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:53:44.478+01:00 DEBUG 43048 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:53:44.481+01:00 DEBUG 43048 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:53:44.483+01:00 DEBUG 43048 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:53:44.485+01:00 DEBUG 43048 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:53:44.495+01:00 DEBUG 43048 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@31e3250d]
+2024-11-16T12:53:44.498+01:00  WARN 43048 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:53:44.628+01:00 DEBUG 43048 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:53:44.631+01:00 ERROR 43048 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T12:55:00.186+01:00  INFO 41908 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 41908 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:55:00.188+01:00 DEBUG 41908 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:55:00.189+01:00  INFO 41908 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:55:00.190+01:00 DEBUG 41908 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:55:00.208+01:00 DEBUG 41908 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@64b73e7a
+2024-11-16T12:55:00.229+01:00 DEBUG 41908 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:55:00.240+01:00 DEBUG 41908 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:55:00.289+01:00 DEBUG 41908 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:55:00.293+01:00 DEBUG 41908 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:55:00.295+01:00 DEBUG 41908 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:55:00.297+01:00 DEBUG 41908 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:55:00.305+01:00 DEBUG 41908 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@31e3250d]
+2024-11-16T12:55:00.307+01:00  WARN 41908 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:55:00.438+01:00 DEBUG 41908 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:55:00.441+01:00 ERROR 41908 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T12:58:04.605+01:00 DEBUG 42040 --- [AWT-EventQueue-0] java.awt.mixing.Container                : this = tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+2024-11-16T12:58:04.612+01:00 DEBUG 42040 --- [AWT-EventQueue-0] java.awt.mixing.Component                : containing window = tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false
+2024-11-16T12:58:04.623+01:00 DEBUG 42040 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : sun.awt.TimedWindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on frame0
+2024-11-16T12:58:04.624+01:00 DEBUG 42040 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on frame0
+2024-11-16T12:58:04.626+01:00 DEBUG 42040 --- [AWT-EventQueue-0] j.swing.SortingFocusTraversalPolicy      : ### Getting first component in tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+2024-11-16T12:58:04.689+01:00  INFO 42040 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 42040 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T12:58:04.693+01:00 DEBUG 42040 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T12:58:04.696+01:00  INFO 42040 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T12:58:04.697+01:00 DEBUG 42040 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T12:58:04.753+01:00 DEBUG 42040 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4ff4357f
+2024-11-16T12:58:04.809+01:00 DEBUG 42040 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T12:58:04.837+01:00 DEBUG 42040 --- [AWT-EventQueue-0] j.swing.SortingFocusTraversalPolicy      : ### Cycle is [tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true], javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=], javax.swing.JLayeredPane[null.layeredPane,0,0,786x563,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true], javax.swing.JPanel[null.contentPane,0,0,786x563,layout=javax.swing.JRootPane$1,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=], tenis_upm.grupo11.view.outsidepanels.LoginPanel[,0,0,786x563,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=], javax.swing.JLabel[,197,137,332x37,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Login,verticalAlignment=CENTER,verticalTextPosition=CENTER], javax.swing.JLabel[,197,209,82x19,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Username:,verticalAlignment=CENTER,verticalTextPosition=CENTER], javax.swing.JTextField[,299,204,230x30,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@7c416414,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=230,height=30],caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING], javax.swing.JLabel[,299,239,230x13,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=0/16,verticalAlignment=CENTER,verticalTextPosition=CENTER], javax.swing.JLabel[,197,272,82x19,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Password:,verticalAlignment=CENTER,verticalTextPosition=CENTER], javax.swing.JPasswordField[,299,267,230x30,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@2ce13e5b,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=230,height=30],caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING,echoChar=•], javax.swing.JButton[,549,267,40x30,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@784fe9f8,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=40,height=30],defaultIcon=javax.swing.ImageIcon@363135f1,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true], javax.swing.JLabel[,299,302,230x13,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=0/16,verticalAlignment=CENTER,verticalTextPosition=CENTER], javax.swing.JButton[,197,330,332x40,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.EmptyBorder@79651b0e,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=150,height=40],defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Login,defaultCapable=true], javax.swing.JButton[,197,380,332x40,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.EmptyBorder@1f99e9a9,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=150,height=40],defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Sign Up,defaultCapable=true]]
+2024-11-16T12:58:04.841+01:00 DEBUG 42040 --- [AWT-EventQueue-0] java.awt.mixing.Container                : this = tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+2024-11-16T12:58:04.841+01:00 DEBUG 42040 --- [AWT-EventQueue-0] java.awt.mixing.Component                : containing window = tenis_upm.grupo11.view.MainFrame[frame0,368,108,800x600,layout=java.awt.BorderLayout,title=Tenis UPM,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,7,30,786x563,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false
+2024-11-16T12:58:04.842+01:00 DEBUG 42040 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : java.awt.event.WindowEvent[WINDOW_OPENED,opposite=null,oldState=0,newState=0] on frame0
+2024-11-16T12:58:04.845+01:00 DEBUG 42040 --- [AWT-EventQueue-0] j.awt.focus.DefaultKeyboardFocusManager  : java.awt.event.FocusEvent[FOCUS_GAINED,permanent,opposite=null,cause=ACTIVATION] on javax.swing.JTextField[,299,204,230x30,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@7c416414,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=230,height=30],caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+2024-11-16T12:58:04.845+01:00 DEBUG 42040 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T12:58:04.850+01:00 DEBUG 42040 --- [AWT-EventQueue-0] sun.awt.im.InputContext                  : Current client component javax.swing.JTextField[,299,204,230x30,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@7c416414,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=230,height=30],caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+2024-11-16T12:58:04.903+01:00 DEBUG 42040 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T12:58:04.906+01:00 DEBUG 42040 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T12:58:04.907+01:00 DEBUG 42040 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T12:58:04.909+01:00 DEBUG 42040 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T12:58:04.924+01:00 DEBUG 42040 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@768ccdc5]
+2024-11-16T12:58:04.926+01:00  WARN 42040 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T12:58:05.046+01:00 DEBUG 42040 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T12:58:05.050+01:00 ERROR 42040 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2024-11-16T13:05:11.954+01:00  INFO 41772 --- [main] tenis_upm.grupo11.App                    : Starting App using Java 17.0.9 with PID 41772 (C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11\target\classes started by Usuario in C:\Users\Usuario\Desktop\Universidad\Cuarto\IS2\TENIS_UPM\ingenieria-software-ii\grupo11)
+2024-11-16T13:05:11.957+01:00 DEBUG 41772 --- [main] tenis_upm.grupo11.App                    : Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-16T13:05:11.958+01:00  INFO 41772 --- [main] tenis_upm.grupo11.App                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-16T13:05:11.960+01:00 DEBUG 41772 --- [main] o.s.boot.SpringApplication               : Loading source class tenis_upm.grupo11.functionality.UserManager
+2024-11-16T13:05:11.979+01:00 DEBUG 41772 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2df6226d
+2024-11-16T13:05:12.002+01:00 DEBUG 41772 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-11-16T13:05:12.014+01:00 DEBUG 41772 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2024-11-16T13:05:12.047+01:00 DEBUG 41772 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-11-16T13:05:12.049+01:00 DEBUG 41772 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-11-16T13:05:12.050+01:00 DEBUG 41772 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-11-16T13:05:12.051+01:00 DEBUG 41772 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2024-11-16T13:05:12.059+01:00 DEBUG 41772 --- [main] o.s.u.c.s.UiApplicationContextUtils      : Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@21d8bcbe]
+2024-11-16T13:05:12.061+01:00  WARN 41772 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-16T13:05:12.186+01:00 DEBUG 41772 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : Application failed to start due to an exception
+
+org.springframework.boot.web.context.MissingWebServerFactoryBeanException: No qualifying bean of type 'org.springframework.boot.web.servlet.server.ServletWebServerFactory' available: Unable to start AnnotationConfigServletWebServerApplicationContext due to missing ServletWebServerFactory bean
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:216) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:186) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619) ~[spring-context-6.1.14.jar:6.1.14]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-3.3.5.jar:3.3.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) ~[spring-boot-3.3.5.jar:3.3.5]
+	at tenis_upm.grupo11.App.main(App.java:29) ~[classes/:na]
+
+2024-11-16T13:05:12.190+01:00 ERROR 41772 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
